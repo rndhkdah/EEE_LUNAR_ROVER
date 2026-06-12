@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.vscode/*.log
+.claude/
+
+# Local secrets / tooling
+.env
+
+# Local working files (not part of the submission)
+Albert stuff/
+Sync files on GitHub/Projects/Interim Presentation/
+
+# Build artifacts and archives
+*.zip
